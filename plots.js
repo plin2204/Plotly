@@ -67,7 +67,7 @@ function buildMetadata(sample) {
 		  mode: "gauge+number"    
     };
 
-    Plotly.newPlot('gauge', [data], layout);
+    Plotly.newPlot('gauge', [data]);
   });
 }
 
