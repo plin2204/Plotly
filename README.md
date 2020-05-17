@@ -12,6 +12,8 @@
 •	Deploy an interactive chart to GitHub Pages.</br>
 
 ## Discussion
+The codes are in [plots.js](https://github.com/plin2204/Plotly/blob/master/plots.js), and [index.html](https://github.com/plin2204/Plotly/blob/master/index.html). <br>
+
 •	Create a *bar chart* of the top ten bacterial species in a volunteer’s navel.</br>
 •	Create a *bubble chart* to visualize the relative frequency of all bacterial species in a volunteer’s navel.</br>
 •	Complete the demographic information panel.</br>
